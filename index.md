@@ -1,4 +1,4 @@
-</> Markdown
+
 ---
 layout: default
 title: Accueil
